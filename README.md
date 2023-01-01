@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ashish Prajapati
+- 👀 I’m interested in Problem Solving and learning new things
+- 🌱 I’m currently learning Data Structures and Algorithms
