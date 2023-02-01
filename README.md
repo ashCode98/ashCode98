@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Prajapati</h1>
 <h3 align="center">I am a second Year Bachelors's in Computer Application Student</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/108178021/215937216-d3d1990a-e748-4da3-adcf-efcee6f4e3e8.png)
-">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashcode98&label=Profile%20views&color=0e75b6&style=flat" alt="ashcode98" /> </p>
 
